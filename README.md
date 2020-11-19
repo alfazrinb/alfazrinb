@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 * [LinkedIn](https://www.linkedin.com/in/alfazrin-banapon-9a953b147/) 
 * [Instagram](https://www.instagram.com/alfazrinb/)
+
+[![Alfa's github stats](https://github-readme-stats.vercel.app/api?username=alfazrinb)](https://github.com/alfazrinb/github-readme-stats)
