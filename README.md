@@ -1,6 +1,6 @@
 ### Hi there, I'm Alfa Welcome to My Github 👋
 
-### I'm Data Scientist, Data Analyst who never stop learning
+### I'm a Data Scientist, Data Analyst who never stop learning
 
 Here are some ideas to get you started:
 
