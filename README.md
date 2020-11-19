@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**alfazrinb/alfazrinb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'am Alfa Welcome to My Github 👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Ditoko.com
+- 🌱 I’m currently learning Data Scientist
+- 👯 I’m looking to collaborate on Data Scientist
+- 🤔 I’m looking for help with Data Engineering
+- 💬 Ask me about Anything
+- 📫 How to reach me: https://www.linkedin.com/in/alfazrin-banapon-9a953b147/
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm a Yes Man
+
