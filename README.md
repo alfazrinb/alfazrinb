@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Data Scientist
 - 🤔 I’m looking for help with Data Engineering
 - 💬 Ask me about Anything
-- 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Yes Man
 
