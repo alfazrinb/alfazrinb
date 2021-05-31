@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Ditoko.com
+- 🔭 I’m currently working on Telkom Indonesia as a Data Scientist
 - 🌱 I’m currently learning Data Scientist
 - 👯 I’m looking to collaborate on Data Scientist
 - 🤔 I’m looking for help with Data Engineering
